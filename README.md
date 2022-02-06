@@ -1,4 +1,4 @@
-![Basic Good Vibes Email Header](Brown Simple Minimalist Email Header (1).png)
+![Basic Good Vibes Email Header](https://github.com/ajfitzh/ajfitzh/blob/d48874648d1a121de4ad012569659ff2fb951c3a/Brown%20Simple%20Minimalist%20Email%20Header%20(1).png)
 
 Javascript / React / Ruby / Rails
 
