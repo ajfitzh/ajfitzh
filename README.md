@@ -1,8 +1,8 @@
 ![Basic Good Vibes Email Header](https://github.com/ajfitzh/ajfitzh/blob/d48874648d1a121de4ad012569659ff2fb951c3a/Brown%20Simple%20Minimalist%20Email%20Header%20(1).png)
 
-Javascript / React / Ruby / Rails
+<h1>Hi! I'm Austin! </h1>
 
-Hi! I'm Austin! I am a recent graduate of the Software Engineering Bootcamp at Flatiron School, where I spent 15 weeks refining my skills as a full-stack developer. I am also nearly finished with a Computer Science B.S. degree from Old Dominion University in Virginia.
+I am a recent graduate of the Software Engineering Bootcamp at Flatiron School, where I spent 15 weeks refining my skills as a full-stack developer. I am also nearly finished with a Computer Science B.S. degree from Old Dominion University in Virginia.
 
 I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills.
 
