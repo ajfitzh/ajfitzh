@@ -2,7 +2,9 @@
 
 Javascript / React / Ruby / Rails
 
-I am a recent graduate of the Software Engineering Bootcamp at Flatiron School, where I spent 15 weeks refining my skills as a full-stack developer. I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills.
+Hi! I'm Austin! I am a recent graduate of the Software Engineering Bootcamp at Flatiron School, where I spent 15 weeks refining my skills as a full-stack developer. I am also nearly finished with a Computer Science B.S. degree from Old Dominion University in Virginia.
+
+I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills.
 
 When I'm not coding new projects, you can find me cheering for Liverpool F.C., playing with my son, or riding my bike!
 
